@@ -1,19 +1,24 @@
-Redactedcraft Assets Release Notes
-================================
+## 🧰 Asset Pack Stabilization (Atlas + Inventory Fixes) 🧱
 
-Highlights
-----------
-- Rebuilt the cube-net atlas so every block uses the correct wrapped texture.
+### 🔄 Changed
+- Rebuilt the cube‑net atlas from all registered block textures.
 - Added the full block texture set used by the game inventory.
-- Fixed the Door Open texture name so atlas indexing matches runtime.
-- Cleaned up legacy/unneeded files from the asset pack.
+- Normalized the Door Open texture name to match runtime atlas indexing.
+- Cleaned legacy/unneeded files from the asset pack.
 
-Included Block Textures
------------------------
-Grass, Dirt, Stone, Water, Sand, Wood, Leaves, Door, Door Open, Chest,
-Coal, Iron, Crafting Table, Glass, Bedrock, Gravel, Plank, Gold, Diamond.
+### ✅ Fixes
+- Inventory blocks no longer show broken/missing previews.
+- Block faces wrap correctly in‑world and in‑hand.
 
-Notes
------
-- The new blocks atlas is generated from 48x32 cube-net textures in a 4x5 grid.
-- Asset packs install cleanly from either the release asset or repo archive.
+### ⚙️ Technical Impact
+- 🧱 Ensures full atlas coverage for all block IDs
+- 📦 Keeps `Assets.zip` consistent with the in‑game registry
+- 🧼 Removes stray files that caused inconsistencies
+
+### 💡 Rationale
+This release aligns the asset pack with the current BlockRegistry + cube‑net atlas layout
+so every block renders consistently across inventory, hand, and world views.
+
+---
+
+🪄 *Crisp blocks. Correct atlas. Consistent inventory.* 🪄
