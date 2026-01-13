@@ -21,9 +21,10 @@
 
 ## What was pushed
 - Branch update/blocks-and-assets-v1_4 pushed to origin.
+- Tag v6.1 pushed; release created: https://github.com/Redactedcraft/Assets/releases/tag/v6.1.
 
 ## Next steps
-- Await user validation after game repo smoke/build instructions.
+- Phase 2 complete. Update master checkpoint and report release URLs.
 
 ## SWE-1.5 CONTINUATION PROMPT
-If taking over, wait for user WORKED/NOT WORKING after providing test commands; no further assets changes expected in Phase 1.
+If taking over, Phase 2 is complete; verify release URLs and update master checkpoint.
