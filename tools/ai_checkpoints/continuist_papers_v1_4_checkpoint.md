@@ -4,7 +4,7 @@
 - C:\Users\Redacted\Documents\AI HELPER\Assets
 
 ## Branch
-- update/blocks-and-assets-v1_4
+- main (merged from update/blocks-and-assets-v1_4)
 
 ## Files changed
 - C:\Users\Redacted\Documents\AI HELPER\Assets\.gitignore
@@ -21,13 +21,13 @@
 - Smoke: (not applicable)
 
 ## What was pushed
-- Branch update/blocks-and-assets-v1_4 pushed to origin.
+- Branch update/blocks-and-assets-v1_4 merged into main and pushed.
 - Tag v6.1 pushed; release created: https://github.com/Redactedcraft/Assets/releases/tag/v6.1.
 - Assets.zip added for distribution.
 - Release asset uploaded: https://github.com/Redactedcraft/Assets/releases/download/v6.1/Assets.zip
 
 ## Next steps
-- Phase 2 complete; await further instructions.
+- Assets main branch is up to date; await further instructions.
 
 ## SWE-1.5 CONTINUATION PROMPT
-If taking over, Phase 2 is complete; release asset is uploaded. Await instructions.
+If taking over, Assets main is updated and release asset is uploaded; await instructions.
