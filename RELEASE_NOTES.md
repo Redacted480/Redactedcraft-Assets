@@ -1,3 +1,18 @@
+## The Continuist Papers (latest)
+
+### Added
+- runestone.png
+- veinstone.png
+- veilglass.png
+- resonance_core.png
+- waybound_frame.png
+- transit_regulator.png
+
+### Notes
+- Textures are cube-net 3x2 sheets and match the lore pack blocks.
+
+---
+
 ## Grass Top + Sides Fix (v5.3)
 
 ### Changed

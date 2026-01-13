@@ -2,6 +2,11 @@
 
 This repo contains the asset pack consumed by the game/launcher.
 
+## Latest Update: The Continuist Papers
+
+- Added lore-aligned block textures: runestone, veinstone, veilglass, resonance core, waybound frame, transit regulator.
+- Compatible with the v1.1d lore pack content drop.
+
 ## Required structure
 
 `Assets.zip` must contain only:
