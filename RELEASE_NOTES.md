@@ -1,11 +1,16 @@
 ## The LatticeVeil Transition (v6.1)
 
+![LatticeVeil Banner](https://raw.githubusercontent.com/latticeveil/Assets/main/textures/menu/backgrounds/MainMenu.png)
+
 ### Changed
 - Regenerated `Assets.zip` from `data/`, `fonts/`, and `textures/`.
 - Removed non-asset documentation from the release bundle.
 
 ### Notes
 - Package structure remains: `data/lore/**`, `fonts/default.fnt`, `textures/blocks/*.png`, `textures/menu/**`.
+
+### Links
+- Game release: https://github.com/latticeveil/LatticeVeil/releases/tag/v6.1.0
 
 ---
 
