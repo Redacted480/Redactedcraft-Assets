@@ -1,15 +1,11 @@
-## The Continuist Papers (latest)
+## The LatticeVeil Transition (v6.1)
 
-### Added
-- runestone.png
-- veinstone.png
-- veilglass.png
-- resonance_core.png
-- waybound_frame.png
-- transit_regulator.png
+### Changed
+- Regenerated `Assets.zip` from `data/`, `fonts/`, and `textures/`.
+- Removed non-asset documentation from the release bundle.
 
 ### Notes
-- Textures are cube-net 3x2 sheets and match the lore pack blocks.
+- Package structure remains: `data/lore/**`, `fonts/default.fnt`, `textures/blocks/*.png`, `textures/menu/**`.
 
 ---
 
